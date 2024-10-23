@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <!--General -->
+    <WaitTime>5</WaitTime>
+    <ScreenshotPath>./allure_screen_shots/</ScreenshotPath>
+
+    <!-- Web & API-->
+    <!--Browser>Chrome</Browser-->
+    <Url>http://localhost:3000/</Url>
+    <UserName>admin</UserName>
+    <Password>admin</Password>
+    <CSV_Location>ddt/users.csv</CSV_Location>
+    <ExecuteApplitools>no</ExecuteApplitools>  <!-- yes/no -->
+    <ApplitoolsKey>VnvjAgy915y92o1IVzdvZY7rCege9yA8db3102k48lj4k110</ApplitoolsKey>
+
+    <!-- Mobile -->
+    <MobileDevice>Android</MobileDevice>
+    <udid>BABIPF8XTGC6A6NJ</udid>
+    <AppPackage>com.shivgadhia.android.ukMortgageCalc</AppPackage>
+    <AppActivity>.MainActivity</AppActivity>
+    <BundleID>com.shivgadhia.ukMortgageCalc</BundleID>
+    <AppiumServer>http://localhost:4730/wd/hub</AppiumServer>
+    <SwipeDuration>200</SwipeDuration>
+
+    <!-- Electron -->
+    <ElectronApp>C:/Users/Obaida/AppData/Local/Programs/todolist/Todolist.exe</ElectronApp>
+    <ElectronDriver>C:/Automation/electrondriver.exe</ElectronDriver>
+
+
+    <!--Desktop -->
+    <ApplicationName>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</ApplicationName>
+    <WinAppDriverService>http://127.0.0.1:4723</WinAppDriverService>
+
+
+    <!-- Database -->
+    <DB_Host>sql7.freemysqlhosting.net</DB_Host>
+    <DB_Name>sql7735194</DB_Name>
+    <DB_User>sql7735194</DB_User>
+    <DB_Password>AwCXj4Dcrt</DB_Password>
+</Environment>

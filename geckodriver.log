@@ -1,0 +1,23 @@
+1728828997225	geckodriver	INFO	Listening on 127.0.0.1:65189
+1728829000306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Obaida\\AppData\\Local\\Temp\\rust_mozprofileVC9jfp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1728829000795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1728829001086	Marionette	INFO	Listening on port 65201
+Read port: 65201
+1728829001262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+1728829012879	Marionette	INFO	Stopped listening on port 65201
+JavaScript warning: http://localhost:3000/public/build/7095.6839ffb2aed352838f3a.js, line 4691: Script terminated by timeout at:
+restoreModel@http://localhost:3000/public/build/7095.6839ffb2aed352838f3a.js:4691:51407
+v@http://localhost:3000/public/build/7095.6839ffb2aed352838f3a.js:4691:51158
+./public/app/features/dashboard/state/DashboardModel.ts/_/this.panels<@http://localhost:3000/public/build/7095.6839ffb2aed352838f3a.js:4691:33134
+Rt@http://localhost:3000/public/build/633.6839ffb2aed352838f3a.js:2:2639971
+Si@http://localhost:3000/public/build/633.6839ffb2aed352838f3a.js:2:2674849
+_@http://localhost:3000/public/build/7095.6839ffb2aed352838f3a.js:4691:33092
+./public/app/features/dashboard/state/initDashboard.ts/x/<@http://localhost:3000/public/build/5397.6839ffb2aed352838f3a.js:26:17720
+
+Dynamically enable window occlusion 1
