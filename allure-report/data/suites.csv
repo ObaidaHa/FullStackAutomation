@@ -1,8 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"This test verifies a successful login to Grafana","928","Test 01: Verify Login Grafana","test_cases","Tue Oct 22 22:49:20 IDT 2024","passed","Tue Oct 22 22:49:21 IDT 2024","TestWeb","test_web","",""
-"This test verifies deleted users","1405","Test 05: Delete Users","test_cases","Tue Oct 22 22:49:26 IDT 2024","passed","Tue Oct 22 22:49:27 IDT 2024","TestWeb","test_web","",""
-"This test verifies filtering users","806","Test 04: Filtering Users","test_cases","Tue Oct 22 22:49:23 IDT 2024","passed","Tue Oct 22 22:49:24 IDT 2024","TestWeb","test_web","",""
-"This test verifies the upper menu buttons","122","Test 02: Verify Upper Menu Buttons","test_cases","Tue Oct 22 22:49:21 IDT 2024","passed","Tue Oct 22 22:49:21 IDT 2024","TestWeb","test_web","",""
-"This test verifies filtering users","966","Test 04: Filtering Users","test_cases","Tue Oct 22 22:49:24 IDT 2024","passed","Tue Oct 22 22:49:25 IDT 2024","TestWeb","test_web","",""
-"This test creating and verifies new users","1262","Test 03: Verify Creating New Users","test_cases","Tue Oct 22 22:49:22 IDT 2024","passed","Tue Oct 22 22:49:23 IDT 2024","TestWeb","test_web","",""
-"This test verifies filtering users","751","Test 04: Filtering Users","test_cases","Tue Oct 22 22:49:25 IDT 2024","passed","Tue Oct 22 22:49:26 IDT 2024","TestWeb","test_web","",""

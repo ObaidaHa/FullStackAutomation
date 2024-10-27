@@ -1,0 +1,20 @@
+
+# Compiled files and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Package metadata
+*.egg-info/
+
+# IDE-specific files
+.idea/
+
+#Allure report files
+*/allure-report/
+*/allure-results/
+
+
