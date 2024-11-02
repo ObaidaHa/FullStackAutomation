@@ -5,11 +5,11 @@
     <ScreenshotPath>./allure_screen_shots/</ScreenshotPath>
 
     <!-- Web & API-->
-    <!--Browser>Chrome</Browser-->
+    <Browser>Chrome</Browser>
     <Url>http://localhost:3000/</Url>
     <UserName>admin</UserName>
     <Password>admin</Password>
-    <CSV_Location>ddt/users.csv</CSV_Location>
+    <CSV_Location>../ddt/users.csv</CSV_Location>
     <ExecuteApplitools>no</ExecuteApplitools>  <!-- yes/no -->
     <ApplitoolsKey>VnvjAgy915y92o1IVzdvZY7rCege9yA8db3102k48lj4k110</ApplitoolsKey>
 
