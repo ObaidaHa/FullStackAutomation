@@ -125,8 +125,8 @@ def init_db_connection(request):
 
 # Function to get the web driver based on browser type
 def get_web_driver():
-    web_driver = get_data('Browser')
-    # web_driver = os.getenv('Browser')
+    # web_driver = get_data('Browser')
+    web_driver = os.getenv('Browser')
     if web_driver.lower() == 'chrome':
         driver = get_chrome()
     elif web_driver.lower() == 'firefox':
