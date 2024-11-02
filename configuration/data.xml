@@ -5,7 +5,7 @@
     <ScreenshotPath>./allure_screen_shots/</ScreenshotPath>
 
     <!-- Web & API-->
-    <!--Browser>Chrome</Browser-->
+    <Browser>Chrome</Browser>
     <Url>http://localhost:3000/</Url>
     <UserName>admin</UserName>
     <Password>admin</Password>
